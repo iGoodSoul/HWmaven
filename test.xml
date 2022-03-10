@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<booksGroup>
+    <name>bookList</name>
+    <books>
+        <book>
+            <article>1</article>
+            <bookName>war</bookName>
+            <year>1941</year>
+        </book>
+        <book>
+            <article>2</article>
+            <bookName>piece</bookName>
+            <year>1945</year>
+        </book>
+        <book>
+            <article>3</article>
+            <bookName>cats</bookName>
+            <year>2000</year>
+        </book>
+        <book>
+            <article>4</article>
+            <bookName>dogs</bookName>
+            <year>2001</year>
+        </book>
+    </books>
+</booksGroup>
